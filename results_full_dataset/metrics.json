@@ -1,0 +1,15 @@
+{
+  "task": "WHEAT_R1-14_M600_to_WHEAT_R15-18_M600",
+  "src_test_head_pre_acc": 99.3002915451895,
+  "src_test_head_pre_macro_f1": 93.64498500951576,
+  "tgt_val_head_pre_acc": 36.47566235366605,
+  "tgt_val_head_pre_macro_f1": 13.559869144518789,
+  "src_test_head_acc": 92.55830903790087,
+  "src_test_head_macro_f1": 13.73570211730348,
+  "src_test_joint_acc": 1.3629737609329446,
+  "src_test_joint_macro_f1": 1.3562635461808572,
+  "tgt_val_joint_acc": 15.526802218114602,
+  "tgt_val_joint_macro_f1": 13.220679582516018,
+  "tgt_test_joint_acc": 12.564102564102564,
+  "tgt_test_joint_macro_f1": 9.203339155484587
+}
